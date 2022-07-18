@@ -5,26 +5,17 @@
       "name": "Raffy",
       "nickname": "Rafferty",
       "photo": "pics/raffy.jpg",
-      "likes": 1028
+      "likes": 1049
     }
   ],
   "animalSightings": [
-    {
-      "id": 1,
-      "travelerId": 1,
-      "species": "frog",
-      "photo": "pics/frog.jpg",
-      "link": "https://youtu.be/Fa_I68L_APY",
-      "description": "I saw this beautiful green frog resting on a leaf!",
-      "likes": 0
-    },
     {
       "id": 2,
       "travelerId": 1,
       "species": "monkey",
       "photo": "pics/monkey.jpg",
       "link": "https://youtu.be/dy-u0voqixQ",
-      "description": "I was so impressed by the monkey's fantastic leaps!",
+      "description": "Bye",
       "likes": 0
     },
     {
